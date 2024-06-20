@@ -17,3 +17,5 @@ btnright.addEventListener('click',function(e){
     images.forEach((img,i)=>img.style.transform=`translateX(${100*(i-current)}%)`)
 
 })
+// current=0 index =0 0-0
+// current=1 index
